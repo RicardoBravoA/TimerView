@@ -18,9 +18,9 @@ dependencies {
 ```
 
 <p align="center">
-  <img src="https://github.com/RicardoBravoA/TimerView/img/img_1.png" alt="Iamge 1"/>
-  <img src="https://github.com/RicardoBravoA/TimerView/img/img_2.png" alt="Iamge 2"/>
-  <img src="https://github.com/RicardoBravoA/TimerView/img/img_3.png" alt="Iamge 3"/>
+  <img src="https://github.com/RicardoBravoA/TimerView/tree/master/img/img_1.png" alt="Image 1"/>
+  <img src="https://github.com/RicardoBravoA/TimerView/tree/master/img/img_2.png" alt="Image 2"/>
+  <img src="https://github.com/RicardoBravoA/TimerView/tree/master/img/img_3.png" alt="Image 3"/>
 </p>
 
 Add the widget to your layout
