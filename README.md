@@ -18,9 +18,9 @@ dependencies {
 ```
 
 <p align="center">
-  <img src="img/img_1.png" alt="Image 1"/>
-  <img src="img/img_2.png" alt="Image 2"/>
-  <img src="img/img_3.png" alt="Image 3"/>
+  <img src="img/img_1.png" alt="Image 1" width="50%" />
+  <img src="img/img_2.png" alt="Image 2" width="50%"/>
+  <img src="img/img_3.png" alt="Image 3" width="50%"/>
 </p>
 
 Add the widget to your layout
